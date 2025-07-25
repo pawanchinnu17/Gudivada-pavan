@@ -6,7 +6,7 @@
   <img src="https://github.com/pawanchinnu17/pawanchinnu17/blob/main/assets/coding.gif" width="400" alt="Coding GIF"/>
 </div>
 
-<h2 align="center">🚀 Passionate Data Scientist from India 🇮🇳</h2>
+<h2 align="center">🚀 Passionate Data Scientist</h2>
 
 <div align="center">
   
