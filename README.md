@@ -155,12 +155,6 @@ print(me.current_focus())
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-  (https://github.com/pawanchinnu17/Predictive-and-Analytical-Engine-for-Real-Estate)
-  
-</div>
 
 ---
 
