@@ -159,9 +159,7 @@ print(me.current_focus())
 
 <div align="center">
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pawanchinnu17&repo=data-science-portfolio&theme=react&hide_border=true)](https://github.com/pawanchinnu17/data-science-portfolio)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pawanchinnu17&repo=ml-algorithms&theme=react&hide_border=true)](https://github.com/pawanchinnu17/ml-algorithms)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pawanchinnu17&repo=Food_delivery_time_prediction&theme=react&hide_border=true)](https://github.com/pawanchinnu17/Food_delivery_time_prediction)
+(https://github.com/pawanchinnu17/Food_delivery_time_prediction)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pawanchinnu17&repo=Predictive-and-Analytical-Engine-for-Real-Estate&theme=react&hide_border=true)](https://github.com/pawanchinnu17/Predictive-and-Analytical-Engine-for-Real-Estate)
   
 </div>
